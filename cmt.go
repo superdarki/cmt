@@ -5,8 +5,8 @@ import (
 	"os"
 
 	"github.com/urfave/cli"
-	"github.com/marcosnils/cmt/migrate"
-	"github.com/marcosnils/cmt/validate"
+	"github.com/superdarki/cmt/migrate"
+	"github.com/superdarki/cmt/validate"
 )
 
 const (
