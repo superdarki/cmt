@@ -11,7 +11,7 @@ import (
 	"golang.org/x/crypto/ssh"
 
 	"github.com/urfave/cli"
-	"github.com/marcosnils/cmt/cmd"
+	"github.com/superdarki/cmt/cmd"
 )
 
 var Command = cli.Command{
