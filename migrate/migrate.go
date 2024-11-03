@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/marcosnils/cmt/cmd"
 	"github.com/marcosnils/cmt/iptables"
 	"github.com/marcosnils/cmt/validate"
