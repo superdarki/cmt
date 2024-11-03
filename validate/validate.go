@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/crypto/ssh"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/marcosnils/cmt/cmd"
 )
 
