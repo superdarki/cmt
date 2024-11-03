@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/marcosnils/cmt/migrate"
 	"github.com/marcosnils/cmt/validate"
 )
