@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/urfave/cli"
-	"github.com/marcosnils/cmt/cmd"
-	"github.com/marcosnils/cmt/iptables"
-	"github.com/marcosnils/cmt/validate"
+	"github.com/superdarki/cmt/cmd"
+	"github.com/superdarki/cmt/iptables"
+	"github.com/superdarki/cmt/validate"
 )
 
 var Command = cli.Command{
